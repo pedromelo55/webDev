@@ -1,2 +1,3 @@
 # webDev
-teste de pull do VSCode
+Pasta de aruivos de treino de HTML/CSS/Javascript
+Repositório para treino de Git/Github/VScode
